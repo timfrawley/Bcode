@@ -1,0 +1,15 @@
+{
+  "name": "reader",
+  "version": "1.0.0",
+  "description": "this reads a barcode for an api call",
+  "main": "run.js",
+  "dependencies": {
+    "quagga": "^0.11.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Frawley",
+  "license": "ISC"
+}
